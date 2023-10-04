@@ -1,36 +1,39 @@
-# Cadastro de endereço
-<h3>repositório criado para a disciplina de Linguagem de Programação I para realização da atividade de criação de Cadastro de endereço.</h3>
+# índice
+[FORM-CADENDERECO](#projeto---criando-lista-de-compra)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Introdução](#introdu%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologia utilizada](#tecnologia-utilizadas)  
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#autores)
 
-# Índice
-[Introdução](#introduc%C3%A7%C3%A3o)
+# Form-CadEndereco
+Com base no exercício feito em sala, pegamos um código pronto do Bootstrap sobre um formulário de cadastro.
 
-[Descrição](#descri%C3%A7%C3%A3o)
+![image info](img/foto.png)
 
-[Tecnologias Utilizadas](#tecnologias-utilizadas)  
-## Introdução
-
-Este é um exemplo simples de um formulário HTML para cadastro de endereços. O formulário foi criado para coletar informações básicas de endereço, como CEP, rua, número, bairro, cidade e estado.
-
-## Descrição
-Quando o usuário clica em "Aplicar", o dia selecionado na tabela do calendário é colorido com a cor escolhida.
-`Endereço :` Campo para a rua do endereço.
-
-`Número:` Número da residência ou estabelecimento.
-
-`Bairro:` Campo para o bairro do endereço.
-
-`Cidade:` Permite que o usuário insira a cidade.
-
-`Estado:` Campo para o estado.
-
-### Tecnologias utilizadas
-* HTML5
-
-* CSS
-
-* Bootstrap
-
-* Github
-
-* Visual Studio Code
+## Descrição 📝
+ O projeto de formular cadastro é uma maneira que encontramos para manter as informações dos clientes organizadas.
  
+## Introdução❗
+Ferramenta que auxilia as empresas a manter as informações organizada.
+A ferramenta foi criadoa para facilitar e ajudar as empresas com suas organizações.
+
+## Funcionalidades⚙️
+Ao acessar essa ferramenta o usuário será direcionado para uma página, lá está pedindo as seguintes funções, sendo elas:
+- `Cep`: O usuário terá que colocar o cep. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: 124352718  
+-  `Endereço`: Esse campo será utilizado para adiconar o Endereço. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Rua das maritacas  
+- `Numero`: O usuario devera colocar o numero de sua residencia. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: 123
+- `Cidade`: Aqui o úsuario devera colocar sua cidade. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸: Londrina
+- `Estado`:  E para finaliza o usuario devera colocae seu estado. 𝓔𝔁𝓮𝓶𝓹𝓵𝓸:Parana
+
+### Tecnologia utilizada ⌨️
+* html
+* javascript
+* github
+
+## Fontes consultadas 🔍
+[bootstrap] https://getbootstrap.com/
+
+## Autores
+[Alexsandro] https://github.com/Alexsandro240806/Form-CadEndereco
